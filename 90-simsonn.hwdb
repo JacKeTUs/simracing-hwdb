@@ -2,3 +2,8 @@
 id-input:modalias:input:*vDDFDp5008*
  ID_INPUT_ACCELEROMETER=0
  ID_INPUT_JOYSTICK=1
+
+# Simsonn Pedals Plus X
+id-input:modalias:input:*vDDFDp6011*
+ ID_INPUT_ACCELEROMETER=0
+ ID_INPUT_JOYSTICK=1
