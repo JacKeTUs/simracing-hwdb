@@ -2,3 +2,11 @@
 id-input:modalias:input:*v3416p1018*
  ID_INPUT_JOYSTICK=1
  ID_INPUT_ACCELEROMETER=0
+
+# Cammus C5
+id-input:modalias:input:*v3416p0301*
+ ID_INPUT_JOYSTICK=1
+
+# Cammus C12
+id-input:modalias:input:*v3416p0302*
+ ID_INPUT_JOYSTICK=1
