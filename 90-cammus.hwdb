@@ -1,0 +1,4 @@
+# Cammus CP5 Pedals
+id-input:modalias:input:*v3416p1018*
+ ID_INPUT_JOYSTICK=1
+ ID_INPUT_ACCELEROMETER=0
