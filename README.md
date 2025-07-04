@@ -24,4 +24,4 @@ Contributions are welcome! .hwdb entries created as small files like so:
 id-input:modalias:input:*vVIDpPID*
  ID_INPUT_JOYSTICK=1
 ```
-VID and PID should be in lowercase. `ID_INPUT_JOYSTICK=1` is a must for our purposes. `ID_INPUT_ACCELEROMETER=0` is needed only if device has 3 axis (X, Y, Z)
+VID and PID should be in uppercase. `ID_INPUT_JOYSTICK=1` is a must for our purposes. `ID_INPUT_ACCELEROMETER=0` is needed only if device has 3 axis (X, Y, Z)
