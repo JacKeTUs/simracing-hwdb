@@ -1,0 +1,3 @@
+# MMOS FFB system
+id-input:modalias:input:*vF055p0FFB*
+ ID_INPUT_JOYSTICK=1
