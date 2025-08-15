@@ -1,0 +1,4 @@
+# Asetek Forte Pedals
+id-input:modalias:input:*v2433pF101*
+ ID_INPUT_ACCELEROMETER=0
+ ID_INPUT_JOYSTICK=1
