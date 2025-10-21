@@ -6,3 +6,7 @@ id-input:modalias:input:*v0EB7p1A92*
 # Fanatec Clubsport Handbrake
 id-input:modalias:input:*v0EB7p1A93*
  ID_INPUT_JOYSTICK=1
+
+# Fanatec CSL Elite LC V1 Pedals
+id-input:modalias:input:*v0EB7p6204*
+ ID_INPUT_JOYSTICK=1
