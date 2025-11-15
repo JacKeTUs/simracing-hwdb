@@ -1,0 +1,4 @@
+# SIMTRECS ProPedal GT (Mk1)
+id-input:modalias:input:*v03EBp2406*
+ ID_INPUT_ACCELEROMETER=0
+ ID_INPUT_JOYSTICK=1
