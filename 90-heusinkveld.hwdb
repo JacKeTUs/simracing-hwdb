@@ -3,6 +3,10 @@ id-input:modalias:input:*v10C4p8B82*
  ID_INPUT_ACCELEROMETER=0
  ID_INPUT_JOYSTICK=1
 
+# Heusinkveld Handbrake V2
+id-input:modalias:input:*v30B7p1002*
+ ID_INPUT_JOYSTICK=1
+
 # Heusinkveld Sequential Shifter
 id-input:modalias:input:*vA020p3142*
  ID_INPUT_JOYSTICK=1
