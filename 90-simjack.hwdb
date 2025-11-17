@@ -1,0 +1,4 @@
+# SIMJACK PRO pedals
+id-input:modalias:input:*v2497p5757*
+ ID_INPUT_ACCELEROMETER=0
+ ID_INPUT_JOYSTICK=1
