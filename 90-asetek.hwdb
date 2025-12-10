@@ -3,7 +3,7 @@ id-input:modalias:input:*v2433pF101*
  ID_INPUT_ACCELEROMETER=0
  ID_INPUT_JOYSTICK=1
 
- Asetek Invicta Pedals
+# Asetek Invicta Pedals
 id-input:modalias:input:*v2433pF100*
  ID_INPUT_ACCELEROMETER=0
  ID_INPUT_JOYSTICK=1
