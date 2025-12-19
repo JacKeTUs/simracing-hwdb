@@ -1,0 +1,4 @@
+# SimRuito Pedals
+id-input:modalias:input:*v5487p5401*
+ ID_INPUT_ACCELEROMETER=0
+ ID_INPUT_JOYSTICK=1
