@@ -1,0 +1,4 @@
+# Simgrade VX-Pro Pedals
+id-input:modalias:input:*v1209p3115*
+ ID_INPUT_ACCELEROMETER=0
+ ID_INPUT_JOYSTICK=1
