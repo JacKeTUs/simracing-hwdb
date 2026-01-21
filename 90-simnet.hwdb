@@ -1,0 +1,4 @@
+# Simnet Racing SP Pedals
+id-input:modalias:input:*vCAFEpA301*
+ ID_INPUT_ACCELEROMETER=0
+ ID_INPUT_JOYSTICK=1
