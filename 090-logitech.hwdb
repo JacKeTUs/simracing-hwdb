@@ -1,0 +1,4 @@
+# Logitech RS Pedals (standalone)
+id-input:modalias:input:*v046DpC277*
+  ID_INPUT_JOYSTICK=1
+  ID_INPUT_ACCELEROMETER=0
