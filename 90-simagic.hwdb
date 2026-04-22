@@ -1,3 +1,7 @@
 # Simagic TB-RS Handbrake
 id-input:modalias:input:*v3670p0A04*
  ID_INPUT_JOYSTICK=1
+
+# Simagic TB-1 Handbrake
+id-input:modalias:input:*v0483p0530*
+ ID_INPUT_JOYSTICK=1
