@@ -9,12 +9,14 @@ Collection of hwdb entries for various simracing equipment.
 ```
 sudo make install
 sudo systemd-hwdb update
+sudo udevadm hwdb --update # non-systemd
 ```
 
 # Removal 
 ```
 sudo make remove
 sudo systemd-hwdb update
+sudo udevadm hwdb --update # non-systemd
 ```
 
 # Contributions
