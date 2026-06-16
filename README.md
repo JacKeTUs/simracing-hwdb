@@ -6,7 +6,7 @@ Collection of hwdb entries for various simracing equipment.
 - Wheelbases/Handbrakes with one/two axis without a buttons, which is not enough for standard tools to detect a joystick.
 
 # Installation
-```
+```bash
 sudo make install
 sudo systemd-hwdb update
 # or, for non-systemd systems
@@ -14,7 +14,7 @@ sudo udevadm hwdb --update
 ```
 
 # Removal 
-```
+```bash
 sudo make remove
 sudo systemd-hwdb update
 # or, for non-systemd systems
