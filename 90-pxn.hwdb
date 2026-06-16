@@ -1,0 +1,4 @@
+# PXN A30 Pedals
+id-input:modalias:input:*v11FFpA301*
+  ID_INPUT_JOYSTICK=1
+  ID_INPUT_ACCELEROMETER=0
